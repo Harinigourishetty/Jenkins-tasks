@@ -358,7 +358,7 @@ This setup delivers a **modular, scalable, and secure CI/CD environment** powere
 
 ## 💡 Author
 
-**Shiva Sai Kumar**
+**Harini Gorishetty**
 DevOps Engineer | CI/CD | Cloud Automation
 
 ---
